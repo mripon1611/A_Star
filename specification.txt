@@ -1,0 +1,8 @@
+****Must read the input from file (input.txt)
+
+Keep dictionary of Heuristics values
+keep dictionary of every nodes (as shown in the slide)
+keep an array for came_from, g_score and f_score 
+use min heap (can be found in python library) for openSet
+for closedSet you can use a boolean array.
+
